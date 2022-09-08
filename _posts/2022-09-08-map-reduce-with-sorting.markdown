@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Map/Reduce (with sorting)"
-date:   2022-09-08 13:01
+date:   2022-09-08 13:01 +0100
 categories: Javascript
 ---
 # Cool Javascript Stuff

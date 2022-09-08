@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Azure Function Deployment Pitfalls"
-date:   2022-09-08 12:56
+date:   2022-09-08 12:56 +0100
 categories: Azure
 ---
 # Azure Function Deployment Pitfalls
