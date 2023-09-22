@@ -9,4 +9,4 @@
 - Add / Edit the `git:https://github.com` generic credential
   - Internet of network address = `git:https://github.com`
   - Username = `PersonalAccessToken`
-  - Password = <token>
+  - Password = &lt;token&gt;
