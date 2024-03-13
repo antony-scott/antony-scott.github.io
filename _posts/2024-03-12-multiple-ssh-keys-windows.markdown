@@ -13,7 +13,7 @@
 - (optional): Once added, open the `Configure SSO` and authorise for the client's organisation
 
 ### Configure git
-###### C:\\Users\antony\\.gitconfig
+###### C:\\Users\myname\\.gitconfig
 ```
 [includeif "gitdir/i:C:/Code/"]
 path = ../../Code/.gitconfig
