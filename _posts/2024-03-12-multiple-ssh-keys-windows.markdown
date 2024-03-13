@@ -1,50 +1,76 @@
 # Multiple SSH Keys for git on Windows
 
-*Note: Feel free to replace "client" with a more meaningful name*
-
 ### Create SSH key locally
 ```
-    C:\Users\antony> ssh-keygen -t ed25519 -C "antony@client.com" -f id_client
+    C:\Users\myname> ssh-keygen -t ed25519 -C "my.name@client1.com" -f id_client1
 ```
 
 ### Add SSH key to github
 - Go to [SSH and GPG Keys](https://github.com/settings/keys)
 - Click `New SSH Key`
   - Title: a meaningful title
-  - Key: the contents of `id_client.pub`
+  - Key: the contents of `id_client1.pub`
 - (optional): Once added, open the `Configure SSO` and authorise for the client's organisation
 
 ### Configure git
-###### C:\Users\antony\.gitconfig
+###### C:\\Users\antony\\.gitconfig
+```
+[includeif "gitdir/i:C:/Code/"]
+path = ../../Code/.gitconfig
+
+[includeif "gitdir/i:C:/Client1/"]
+path = ../../Client1/.gitconfig
+```
+
+###### C:\\Personal\\.gitconfig
 ```
 [user]
-    name = Antony Scott
-    email = 1767144+antony-scott@users.noreply.github.com
-[includeif "gitdir/i:C:/Work/Client/"]
-    [user]
-        name = Antony Scott
-        email = antony.scott@client.com
-    [url "github.com.client:"]
-        insteadOf = git@github.com:
-    [core]
-        sshCommand = "ssh -i c:/Users/antony/.ssh/id_client"
+name = My Name
+email = 1234567+my-name@users.noreply.github.com
+
+[github]
+user = "my-name"
+
+[core]
+sshCommand = "ssh -i c:/Users/myname/.ssh/id_github"
+```
+
+###### C:\\Client1\\.gitconfig
+```
+[user]
+name = My Name
+email = my.name@client1.com
+
+[github]
+user = "myname-client1"
+
+[core]
+sshCommand = "ssh -i c:/Users/myname/.ssh/id_client1"
 ```
 
 ### Configure ssh
-###### C:\Users\antony\.ssh\config
+###### C:\\Users\\myname\\.ssh\\config
 ```
-Host github.com.client
+Host github.com
     Hostname github.com
     User git
     AddKeysToAgent yes
-    IdentityFile ~/.ssh/id_client
+    IdentityFile ~/.ssh/id_github
+    IdentitiesOnly yes
+    
+Host github.com.client1
+    Hostname github.com
+    User git
+    AddKeysToAgent yes
+    IdentityFile ~/.ssh/id_client1
     IdentitiesOnly yes
 ```
 
-### Summary
-The above will have the effect of using the `id_client` SSH key whenever you are
-operating in the `C:\Users\antony\Work\Client` folder (or deeper). 
+### End Result
+When using git under the `C:\Personal` folder (or any subfolder)
+- email will be `1234567+my-name@users.noreply.github.com`
+- SSH key `C:\Users\myname\.ssh\id_github` will be used
 
-I have combined this with a "personal" SSH key which is stored against my personal github profile, this SSH key will be used whenever I am not under the `C:\Work\Client` folder.
-
-*Note: I have also customised the user email based on the folder location*
+When using git under the `C:\Client1` folder (or any subfolder)
+- email will be `my.name@client1.com`
+- SSH key `C:\Users\myname\.ssh\id_client1` will be used
