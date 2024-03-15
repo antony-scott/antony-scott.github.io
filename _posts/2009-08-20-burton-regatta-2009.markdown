@@ -10,18 +10,18 @@ Our straight final in the Intermediate 3 event was against Warrington RC. I don'
 
 So, I now have two sculling points. Although I didn't feel like I'd really earned the last one as it was a straight final. Still, those are the rules.
 
-![image](../assets/p7110085.jpg)
+![image](/assets/p7110085.jpg)
 *Burton Regatta 2009 - Boating*
 
 
-![image](../assets/p7110090.jpg)
+![image](/assets/p7110090.jpg)
 *Burton Regatta 2009 - Paddling to the start*
 
 
-![image](../assets/p7110093.jpg)
+![image](/assets/p7110093.jpg)
 *Burton Regatta 2009 - Sprint for the finish*
 
-![image](../assets/p7110094.jpg)
+![image](/assets/p7110094.jpg)
 *Burton Regatta 2009 - Pots*
 
 

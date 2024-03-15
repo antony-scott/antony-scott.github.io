@@ -6,8 +6,8 @@ categories: Rowing
 ---
 On the 15th & 16th of August I competed at Stourport Regatta. This was another first for me, as I now had my own tent to live in for the weekend. My chosen abode is a Vango Swift 300. It's a 3 man tent with a lobby area, so it's very comfortable. I can't stand up in it, but there is plenty of room to get changed in there. It's one of these popup tents, so literally takes seconds to pop up, and a couple of minutes in total to pitch fully. Combined with my ReadyBed (a sleeping bag with built in airbed) I was very comfy for the whole weekend.
 
-![image](../assets/swift-300-ensign-bluebell.jpg)
-![image](../assets/readybed.jpg)
+![image](/assets/swift-300-ensign-bluebell.jpg)
+![image](/assets/readybed.jpg)
 
 The weather reports for the weekend were a bit mixed, ranging from cloudy and rainy to blistering heat. Well, it turned out to be the latter, which while nice and dry; Poses another problem of trying to avoid getting burnt to a crisp!
 
@@ -27,13 +27,13 @@ Apparently, every single person from Trent Rowing Club who competed at Stourport
 
 The official photographer for the regatta has a service where we can get all our club photos onto a CD for only Â£30. So, we got him to take a few **Team Trent** photos on the Sunday just before we left for the journey home. Once I get a copy of the CD I'll add some photos to this post.
 
-![image](../assets/dscf4470.jpg)
+![image](/assets/dscf4470.jpg)
 *Trophy Shelf - Teddies courtesy of Sue!*
 
 Photos arrived some time back but I've just got round to putting them on here
 
-![image](../assets/IMG_4964.JPG)
-![image](../assets/IMG_4966.JPG)
+![image](/assets/IMG_4964.JPG)
+![image](/assets/IMG_4966.JPG)
 
-![image](../assets/IMG_4411.JPG)
+![image](/assets/IMG_4411.JPG)
 *Stourport 2009 - Mens IM2 4x Crew*

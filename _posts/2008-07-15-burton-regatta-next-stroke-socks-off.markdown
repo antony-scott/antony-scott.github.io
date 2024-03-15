@@ -8,7 +8,7 @@ This weekend was the 142nd Burton Regatta. I personally competed in 5 events ove
 
 Perhaps I should start by explaining the title of this post! Because it has rained quite heavily pretty much all day friday, the river has risen quite a bit. In fact all but one or two buoys were not submerged. Also, the landing stages were partly under water. So, we soon developed a routine for landing. We would stop just before getting to the landing stage and all take our socks off.
 
-![image](../assets/burton-regatta-socks-off.jpg)
+![image](/assets/burton-regatta-socks-off.jpg)
 
 I was in the Senior 3 Eight, Senior 4 Coxed Four on Saturday and the Senior 3 Eight, Senior 4 Coxed Four and Senior 3 Coxed Four on Sunday.
 

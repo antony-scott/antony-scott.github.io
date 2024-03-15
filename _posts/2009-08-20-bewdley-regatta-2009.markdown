@@ -10,5 +10,5 @@ Although we came away without any pots we did have close races and were encourag
 
 We had good weather on the Saturday, very hot at times. But Sunday turned into a downpour for most of the day.
 
-![image](../assets/image46.jpg)
+![image](/assets/image46.jpg)
 *Bewdley Regatta 2009 - IM2 Quad in boat pairing*
