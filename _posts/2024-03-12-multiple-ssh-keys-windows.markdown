@@ -1,5 +1,9 @@
-# Multiple SSH Keys for git on Windows
-
+---
+layout:     post
+title:      Multiple SSH Keys for git on Windows
+date:       2024-03-12
+categories: Rowing
+---
 ### Create SSH key locally
 ```
     C:\Users\myname> ssh-keygen -t ed25519 -C "my.name@client1.com" -f id_client1

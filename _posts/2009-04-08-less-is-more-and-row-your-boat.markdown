@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      Less is more and "row *your* boat"
+date:       2009-04-08
+categories: Rowing
+---
+I emphasise the word "your" in the title of this post because of something I've learnt during the last few sessions on the water. And that is to listen to your own boat, and not worry about what the other crews are up to. When racing / training alongside other crews I have a tendancy to listen to what they're doing.
+
+Because we're a faster crew we generally start pieces off a good distance behind the other crews, the idea being that we're finishing the piece more or less level. There are two reasons for that, firstly that the launch can see us all in action, and secondly so we get a racing finish towards the end of the piece. Because we start some way behind the other crews, the early stages of the pieces are generally good, with us finding a good rhythm and working really well together. The problem comes when I feel the wash of the other boats and then start to hear them. I get carried away and start trying to race them by applying brute force. The only effect that has is to slow our boat down, because we lose our rhythm and the tidyness of our blade work dissappears. The result being we have to work much harder to even stay level with, never mind move through and pull away from the other boat. So, the lesson is this ....
+
+> Looking at the other boat won\'t make your boat go faster, the only thing it will do is slow it down.
+
+The other lesson I've learnt, and hopefully it'll stick in my mind for the next training session, is that less is more. Last night a few student members of my rowing club returned home for the easter break, so Rob and I in our double were racing against a coxed four during the 2 fartleks we did. We were rating 36 during one of the pieces and only just beat the four, the ratio was wrong, I was rushing up the slide and consequently the blade work was messy. My rowing partner, Rob, and the coaches in the launch spotted this and told me to relax and sit at a stroke rate of 32 for the next one. Which we did and the result was that we easily passed the four and then proceeded to pull in front by about 30 metres. All with rating 4 pips lower and not pulling as hard.
+
+Rowing is all about controlled power, with the emphasis on the control. The power should only be introduced once you have control, and should never take precedence over the control. Control is having a stable platform upon which to apply the power, that means sitting the boat, covering the blades for the whole of the drive, placing where you reach, fast catches, clean extractions, loading up the blades evenly and not digging. Basically all the technical stuff needs to be spot on, then you can concentrate on applying the power. BUT, only in the right places. Applying power in the wrong places or unevenly only serves to upset the balance of the boat, which means you lose control.
+
+It's a very wierd concept to get your head round, but less really is more.
+
+After we'd finished our river training on Sunday, I was watching someone on an ergo and it occured to me that ergo scores are a very odd way of deciding who gets to row in a crew boat. In relation to other members of my club I have quite a good ergo score, but my balance and technique (until recently) weren't very good. The erg is all about power with no need for control, whereas it's the other way round in a boat. You obviously have to be fit to keep the control when fatigued, but that is a different kind of fitness from what the ergo gives you. Obviously, erg scores aren't the be all and end all of seat racing, but perhaps they should take on a bit less importance when deciding who gets in to a crew.

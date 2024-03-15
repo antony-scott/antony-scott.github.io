@@ -1,5 +1,9 @@
-# Loughborough Regatta 2008
-
+---
+layout:     post
+title:      Loughborough Regatta (2008)
+date:       2008-06-16
+categories: Rowing
+---
 I raced at the [Loughborough Regatta](http://www.loughboroughregatta.co.uk/) this Saturday just gone. It was my first experience of multi-lane rowing. Although my first race of the day was in the Mens Senior 2 coxed 4s, where there were only 2 crews racing anyway.
 
 We were racing Belfast and despite them being quite a bit older than us, even than me at 36 years old, they were quick. In fact they pulled away from us as the start, which we fluffed up. We didn't panic to get back to them, our cox reassured us that we still had them. So, we settled into a really good rhythm and gradually pulled them back. By the 500m mark (of the 1000m course) we had taken the lead. But the other crew didn't panic either. I think we managed to build a lead of about a length. At the 250m to go mark they started to make their move and gradually came back at us. With 100m to go we were still in the lead but not by much, our cox made a call for 10 big strokes, but we were pretty much flat out already. With about 25m to go the other crew started to take a lead on us, we tried to respond but, I think, in the wrong way. Our rate went up and subsequently the technique suffered.

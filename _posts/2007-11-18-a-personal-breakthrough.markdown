@@ -1,5 +1,9 @@
-# A personal breakthrough
-
+---
+layout:     post
+title:      A personal breakthrough
+date:       2007-11-18
+categories: Rowing
+---
 Today, I managed to swim a length of the pool (20m) underwater. This from only a few days ago, not even being able to put my head under the water without holding my nose!
 
 One of the guys at my rowing club helped me towards this during  the capsize drill the other night. I just couldn't bring myself to do the drill. So, he took me to the side and helped me overcome my fear of going under water.

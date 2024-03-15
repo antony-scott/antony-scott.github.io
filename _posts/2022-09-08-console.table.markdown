@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "console.table"
-date:   2022-09-08 13:02 +0100
+layout:     post
+title:      console.table
+date:       2022-09-08
 categories: Javascript
 ---
-# console.table
 
 ```javascript
 const data = [

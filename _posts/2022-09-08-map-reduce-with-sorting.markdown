@@ -1,13 +1,9 @@
 ---
-layout: post
-title:  "Map/Reduce (with sorting)"
-date:   2022-09-08 13:01 +0100
+layout:     post
+title:      Map/Reduce (with sorting)
+date:       2022-09-08
 categories: Javascript
 ---
-# Cool Javascript Stuff
-
-## Map/Reduce (with sorting)
-
 ```javascript
 const data = [
   { Year: 2021, Month: 12, ElectricityCost: 42432 },

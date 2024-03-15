@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Formatting monetary values"
-date:   2022-09-08 13:02 +0100
+layout:     post
+title:      Formatting monetary values
+date:       2022-09-08
 categories: Javascript
 ---
 <style>

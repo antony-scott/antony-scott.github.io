@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "How to reset WSL Ubuntu root password"
-date:   2023-09-15 15:14 +0100
+layout:     post
+title:      How to reset WSL Ubuntu root password
+date:       2023-09-15
 categories: Windows,WSL
 ---
 # How to reset WSL Ubuntu root password

@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      ReCSS
+date:       2007-02-14
+categories: CSS
+---
+I found a very interesting little trick today. When I'm creating a new page in a web application I do a lot of css editing. This usually involves making a change to my css file, saving it, going in to Internet Explorer and refreshing the page. Which if it's an AJAX page can be annoying, as I will have to start from scratch every time I make a minor modification to the CSS.
+
+The thing I stumbled upon today was a way to get Internet Explorer to reload just the css. This involved creating a bookmark/favourite with some embedded javascript in it. These little snippets of javascript are called  bookmarklets or favelets.
+
+The first solution for re-loading the CSS I found on the web would crash if ran more than once within Internet Explorer. However, I have come up with a solution which I will now reveal to you!
+
+During my travels around the web today I also stumbled across a jem of a page that takes normal javascript and \"scrunches\" it down into a bookmarklet/favelet.
+
+In order to "install" the favelet, copy the below javascript, paste it into [this](http://ted.mielczarek.org/code/mozilla/bookmarklet.html) page, pick a name for the favelet, click the **Scrunch** button and finally right-click the link it gives you and add it to your bookmarks/favourites.
+
+```javascript
+    var e = document.getElementsByTagName('link');
+    var dt = new Date();
+    
+    for (var i=0; i<e.length; i++)
+    {
+        if(e[i].rel.toLowerCase()=='stylesheet')
+        {
+            var s = e[i].href.split("?");
+            if (s[0].match(/css$/))
+            {
+                e[i].href="";
+                e[i].href=s[0];
+            }
+        }
+    }
+```
+
+I have tested this by knocking up a simple web page with an external css file, and it worked perfectly over several updates. I had to make it check the href ended with css, as I have some embedded stylesheets in one of my ASP.NET solutions and the links don't end in css. The real trick was in getting IE to not crash when you run it more than once. That was achieved by clearing the href and then re-setting it again, rather than adding a random element to the href as part of a querystring.
+
+This could easily be modified to refresh the CSS every x seconds. I have seen someone who did it every 2 seconds, but I think that's a bit too often for my needs. It wouldn't take much to write a pair of start/stop auto-refresh favelets.
+
+Hope that helps someone out, it's certainly going to make my life easier and save a lot of time.

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Making VSCode nicer"
-date:   2022-09-08 12:53 +0100
+layout:     post
+title:      Making VSCode nicer
+date:       2022-09-08
 categories: VSCode
 ---
 

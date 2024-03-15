@@ -1,0 +1,11 @@
+{
+    "name": "github-pages-blog",
+    "description": "Github Pages Blog",
+    "version": "0.1.0",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "install": "bundle install",
+        "start": "bundle exec jekyll serve"
+    }
+  }

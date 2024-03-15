@@ -4,7 +4,6 @@ title:  "How to enable GraphQL logging"
 date:   2022-09-08 12:58 +0100
 categories: GraphQL Logging
 ---
-# How to enable GraphQL logging
 
 Edit the host.json file within the GraphQL server folder
 

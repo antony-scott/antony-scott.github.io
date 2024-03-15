@@ -1,3 +1,7 @@
-# Rowing Progress
-
+---
+layout:     post
+title:      Rowing Progress
+date:       2007-10-02
+categories: Rowing
+---
 I've been out in a 4 a total of 3 times now. Rowing sweep oar is totally  different to sculling, each hand has a different job to do for a start! I seem to be picking it up, as the rest of the crew and the coaches tell me I'm improving with every stroke. Having had a fear of water for as long as I have, it's taken me a little while to get the confidence to use the full length of the slide and fully stretch at the catch. There is a lot to take in, but it's gradually getting there. This last time (Sunday) I felt like I was able to start putting some power in to the drive and actually help move the boat faster. It was also the first time I actually built up a sweat, previously I'd just been trying not to sink the boat! I don't feel as though we're going to go in the water each time the boat has a wobble. At first I'd get a bit tense when that happened, but now I know it will sort itself out if I get back in to the rhythm. While I don't think I'm ready to race yet, I'm certain I will be in the not too distant future. The other guys are talking about getting me in a crew for a head race. So, watch this space!

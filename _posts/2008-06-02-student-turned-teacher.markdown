@@ -1,5 +1,9 @@
-# Student turned teacher.....
-
+---
+layout:     post
+title:      Student turned teacher.....
+date:       2008-06-02
+categories: Rowing
+---
 .... well sort of.
 
 I found myself offering tips on better rowing technique to a couple of people over the weekend. Both of them have just started out and are making all the same mistakes I made, and still do sometimes. Some of them being:-

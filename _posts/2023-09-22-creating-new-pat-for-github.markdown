@@ -1,5 +1,9 @@
-# Creating a new PAT (Personal Access Token) for github
-
+---
+layout:     post
+title:      Creating a new PAT (Personal Access Token) for github
+date:       2023-09-22
+categories: Github
+---
 - Create a new (classic token) here - https://github.com/settings/tokens
 - give it a meaningful name
 - tick `repo`, `gist` and `workflow` permissions
