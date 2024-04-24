@@ -4,8 +4,6 @@ title:      SQL Server in Docker Compose
 date:       2024-04-24
 categories: Docker
 ---
-### SQL Server in Docker Compose
-
 ```yaml
 name: my-app
 services:
