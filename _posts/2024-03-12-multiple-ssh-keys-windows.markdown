@@ -48,6 +48,9 @@ email = my.name@client1.com
 [github]
 user = "myname-client1"
 
+[url "github.com.client1:"]
+insteadOf = git@github.com:
+
 [core]
 sshCommand = "ssh -i c:/Users/myname/.ssh/id_client1"
 ```
