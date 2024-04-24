@@ -2,7 +2,7 @@
 layout:     post
 title:      Multiple SSH Keys for git on Windows
 date:       2024-03-12
-categories: Rowing
+categories: GitHib,SSH
 ---
 ### Create SSH key locally
 ```
