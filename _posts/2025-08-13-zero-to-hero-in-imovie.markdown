@@ -37,6 +37,7 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
     - Move the playhead to the spot.
     - Press **⌘ B** to split.
     - Click the unwanted section and press **Delete**.
+
 ### **5. Add Titles or Text**
 - Click the **“Titles”** tab (top left).
 - Drag a style into the timeline above your clip.
