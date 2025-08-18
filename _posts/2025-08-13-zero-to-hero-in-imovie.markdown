@@ -63,13 +63,13 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
 
 > 🎧 _Be sure to lower music volume if you’re narrating over it._
 
-### **7. Split a Clip to Pause for Voiceover**
-If you need more time to explain something in your narration, you can “pause” the action in your video by splitting the clip and inserting a still frame.  
+### **7. Pause for Voiceover**
+If you need more time to explain something in your narration, you can “pause” the action in your video by inserting a still frame.  
 
-- **Find the point** in the clip where you want the pause to happen and position the playhead there. This is where those small pauses come in to play.
-- Go to **Modify → Split Clip** (or press **⌘ + B**) to split it.  
-- Select the second part of the split clip, then choose **Modify → Add Freeze Frame**.  
-- The freeze frame will appear in the timeline and can be **stretched** to last as long as your explanation takes.  
+- **Find the point** in the clip where you want the pause to happen and position the playhead there. This is where those small pauses you incorporated into your screen recording come in to play.
+- Right click on the video clip and select **Add Freeze Frame**, once the freeze frame appear in the timeline it can be **stretched** to last as long as your explanation takes.  
+
+![iMovie freeze frame](/assets/imovie-freeze-frame.gif)
 
 > 💡 _This trick lets your voiceover continue while the video “holds” on a frame, making it easier for viewers to follow along._
 
