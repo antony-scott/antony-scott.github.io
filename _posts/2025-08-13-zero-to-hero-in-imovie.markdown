@@ -50,7 +50,7 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
   - Drag a handle inward to create a fade — you’ll see a curved line on the clip showing the fade shape.  
   - This is useful for smoothing transitions and removing audible pops at the start or end of a voiceover.
   
-    ![iMovie audio clip fade](../assets/imovie-audio-clip-fade.gif)
+    ![iMovie audio clip fade](/assets/imovie-audio-clip-fade.gif)
 
 > 🗣️ _Useful for intros, lower thirds, or adding context to silent screen recordings._
 
