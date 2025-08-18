@@ -46,6 +46,8 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
   - Drag the line **up** to increase volume, or **down** to decrease it.  
   - The adjustment applies to the entire clip.
 
+    ![iMovie audio clip volume](/assets/imovie-audio-clip-volume.gif)
+
 - To fade audio in or out, select the audio (or video) clip. Look for small **fade handles** (circles) at the left and right edges, for video clips these will appear in the lower portion of the clip's area.
   - Drag a handle inward to create a fade — you’ll see a curved line on the clip showing the fade shape.  
   - This is useful for smoothing transitions and removing audible pops at the start or end of a voiceover.
