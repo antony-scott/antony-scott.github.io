@@ -43,6 +43,8 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
 - Drag a style into the timeline above your clip.
 - Customise the text in the preview window.
 
+> 🗣️ _Useful for intros, lower thirds, or adding context to silent screen recordings._
+
 ### **6. Add Music or Voiceover (Optional)**
 - Click **Audio** to add background music.
 - Or hit the mic icon below the preview to record a quick voiceover.
@@ -60,8 +62,6 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
   - This is useful for smoothing transitions and removing audible pops at the start or end of a voiceover.
   
     ![iMovie audio clip fade](/assets/imovie-audio-clip-fade.gif)
-
-> 🗣️ _Useful for intros, lower thirds, or adding context to silent screen recordings._
 
 ### **7. Pause for Voiceover**
 If you need more time to explain something in your narration, you can “pause” the action in your video by inserting a still frame.  
