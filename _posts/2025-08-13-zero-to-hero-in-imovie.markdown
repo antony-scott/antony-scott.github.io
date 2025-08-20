@@ -42,6 +42,13 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
 - Click the **“Titles”** tab (top left).
 - Drag a style into the timeline above your clip.
 - Customise the text in the preview window.
+
+### **6. Add Music or Voiceover (Optional)**
+- Click **Audio** to add background music.
+- Or hit the mic icon below the preview to record a quick voiceover.
+
+> 🎧 _Be sure to lower music volume if you’re narrating over it._
+
 - To adjust a clip’s volume, hover over it in the timeline and look for the thin **horizontal volume line** running across the waveform. 
   - Drag the line **up** to increase volume, or **down** to decrease it.  
   - The adjustment applies to the entire clip.
@@ -55,13 +62,6 @@ Got a screen recording? Don’t stress about syncing it perfectly with your voic
     ![iMovie audio clip fade](/assets/imovie-audio-clip-fade.gif)
 
 > 🗣️ _Useful for intros, lower thirds, or adding context to silent screen recordings._
-
-
-### **6. Add Music or Voiceover (Optional)**
-- Click **Audio** to add background music.
-- Or hit the mic icon below the preview to record a quick voiceover.
-
-> 🎧 _Be sure to lower music volume if you’re narrating over it._
 
 ### **7. Pause for Voiceover**
 If you need more time to explain something in your narration, you can “pause” the action in your video by inserting a still frame.  
